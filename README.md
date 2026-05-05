@@ -56,7 +56,7 @@ To ensure the application builds correctly for the server, you can generate and 
 2. Serve the production build:
    You can use `npx serve` to serve the static files:
    ```bash
-   npx serve -s build
+   npx serve --single build
    ```
    Then open the provided local address (usually `http://localhost:3000`) in your browser to view the production build.
 
