@@ -1,5 +1,4 @@
 import React from 'react';
-import logo from './logo.svg';
 import './App.css';
 
 class App extends React.Component {
@@ -16,22 +15,22 @@ class App extends React.Component {
             </span>
             <ul className="fab-buttons">
                 <li className="fab-buttons-item">
-                    <a className="fab-buttons-link" target="_blank" href="https://github.com/HEXcube/ReactAR/blob/master/README.md" data-tooltip="How to use">
+                    <a className="fab-buttons-link" target="_blank" href="https://github.com/RohanVilloth/ReactAR/blob/main/README.md" data-tooltip="How to use">
                         <i className="icon-material icon-material-info"></i>
                     </a>
                 </li>
                 <li className="fab-buttons-item">
-                    <a className="fab-buttons-link" target="_blank" href="https://github.com/HEXcube/ReactAR/raw/master/public/assets/markers/phoenix-of-autumn.jpg" data-tooltip="Open marker image">
+                    <a className="fab-buttons-link" target="_blank" href="https://github.com/RohanVilloth/ReactAR/raw/main/public/assets/markers/phoenix-of-autumn.jpg" data-tooltip="Open marker image">
                         <i className="icon-material icon-material-image"></i>
                     </a>
                 </li>
                 <li className="fab-buttons-item">
-                    <a className="fab-buttons-link" target="_blank" href="https://github.com/HEXcube/ReactAR" data-tooltip="View source code">
+                    <a className="fab-buttons-link" target="_blank" href="https://github.com/RohanVilloth/ReactAR" data-tooltip="View source code">
                         <i className="icon-material icon-material-source"></i>
                     </a>
                 </li>
                 <li className="fab-buttons-item">
-                    <a className="fab-buttons-link" target="_blank" href="https://hexcube.github.io" data-tooltip="About me">
+                    <a className="fab-buttons-link" target="_blank" href="https://RohanVilloth.github.io" data-tooltip="About me">
                         <i className="icon-material icon-material-about"></i>
                     </a>
                 </li>
