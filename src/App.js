@@ -30,7 +30,7 @@ class App extends React.Component {
                     </a>
                 </li>
                 <li className="fab-buttons-item">
-                    <a className="fab-buttons-link" target="_blank" rel="noreferrer" href="https://RohanVilloth.github.io" data-tooltip="About me">
+                    <a className="fab-buttons-link" target="_blank" rel="noreferrer" href="https://RohanVilloth.com" data-tooltip="About me">
                         <i className="icon-material icon-material-about"></i>
                     </a>
                 </li>

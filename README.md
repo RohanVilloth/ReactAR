@@ -5,7 +5,7 @@ React port of [EnchantAR](https://github.com/RohanVilloth/EnchantAR).
 HOWTO
 -----
  - Open this image on any screen: [Image](https://github.com/RohanVilloth/ReactAR/raw/main/public/assets/markers/phoenix-of-autumn.jpg)
- - Open this app on your phone and scan the screen where you have the image open: [Webapp](https://RohanVilloth.github.io/ReactAR/)
+ - Open this app on your phone and scan the screen where you have the image open: [Webapp](https://RohanVilloth.com/ReactAR/)
  - Watch ReactAR react to images! :sparkles:
 
  ![Phoenix of Autumn](https://github.com/RohanVilloth/ReactAR/raw/main/public/assets/markers/phoenix-of-autumn.jpg)
