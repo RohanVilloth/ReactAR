@@ -12,9 +12,19 @@ updates:
     labels:
       - "dependencies"
     groups:
-      npm-dependencies:
+      # Safe to merge with little review
+      npm-minor-patch:
         patterns:
           - "*"
+        update-types:
+          - "minor"
+          - "patch"
+      # Separate PR; review and merge or close at leisure
+      npm-major:
+        patterns:
+          - "*"
+        update-types:
+          - "major"
   - package-ecosystem: "github-actions"
     directory: "/"
     schedule:
